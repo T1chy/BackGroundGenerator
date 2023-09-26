@@ -15,11 +15,11 @@ body {
 }
 
 h1 {
-    font: 600 1.5em 'Tektur', sans-serif;
+    font: 600 1em 'Tektur', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
-    letter-spacing: .5em;
+    letter-spacing: .2em;
     width: 100%;
 }
 
