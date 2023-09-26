@@ -9,6 +9,10 @@ body {
 	background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
+.container {
+    max-width: 100%;
+}
+
 h1 {
     font: 600 3.5em 'Tektur', sans-serif;
     color: rgba(0,0,0,.5);
